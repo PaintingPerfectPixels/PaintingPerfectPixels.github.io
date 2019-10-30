@@ -3,10 +3,33 @@
     <title>PaintingPerfectPixels!</title>
     <link href="https://PaintingPerfectPixels.github.io/feed.xml" rel="self" />
     <link href="https://PaintingPerfectPixels.github.io" />
-    <updated>1969-12-31T19:00:00-05:00</updated>
+    <updated>2019-10-30T17:48:41-04:00</updated>
     <author>
         <name>BowMan</name>
     </author>
     <id>https://PaintingPerfectPixels.github.io</id>
 
+    <entry>
+        <title>My Blog/Portfolio?</title>
+        <author>
+            <name>BowMan</name>
+        </author>
+        <link href="https://PaintingPerfectPixels.github.io/brothers/"/>
+        <id>https://PaintingPerfectPixels.github.io/brothers/</id>
+
+        <updated>2019-10-30T17:48:29-04:00</updated>
+            <summary>
+                <![CDATA[
+                    Welcome to my blog/portfolio! :D I'll be using this site for commissions and a place to post my art! Stay tuned for more! ~BowMan
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Welcome to my blog/portfolio! :D I'll be using this site for commissions and a place to post my art!</p>
+<p> </p>
+<p>Stay tuned for more!</p>
+<p>~BowMan</p>
+            ]]>
+        </content>
+    </entry>
 </feed>
