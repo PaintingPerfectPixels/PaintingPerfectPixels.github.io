@@ -2,8 +2,8 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "PaintingPerfectPixels!",
     "description": "",
-    "home_page_url": "https://github.com/PaintingPerfectPixels/PaintingPerfectPixels.github.io",
-    "feed_url": "https://github.com/PaintingPerfectPixels/PaintingPerfectPixels.github.io/feed.json",
+    "home_page_url": "https://PaintingPerfectPixels.github.io",
+    "feed_url": "https://PaintingPerfectPixels.github.io/feed.json",
     "user_comment": "",
     "author": {
         "name": "BowMan"
